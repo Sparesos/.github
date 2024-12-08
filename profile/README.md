@@ -1,4 +1,4 @@
-![Open Source](https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png) 
+![Open Source](https://github.com/Sparesos/.github/blob/main/images/gegi.png) 
 
 ## Get Involved
 
